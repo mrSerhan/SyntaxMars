@@ -1,2 +1,3 @@
 module Mars {
+	exports Test;
 }
