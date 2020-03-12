@@ -1,3 +1,0 @@
-module Mars {
-	exports Test;
-}
